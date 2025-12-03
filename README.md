@@ -38,24 +38,6 @@ It works seamlessly with the HTML/CSS/JS frontend by exposing secure endpoints.
 
 🔗 REST API
 
-📂 Project Structure
-src/
- └── main/
-     ├── java/com/project/task_tracker/
-     │     ├── controller/
-     │     │      └── TaskController.java
-     │     ├── service/
-     │     │      ├── TaskService.java
-     │     │      └── TaskServiceImp.java
-     │     ├── repository/
-     │     │      └── TaskRepository.java
-     │     ├── model/
-     │     │      └── Task.java
-     │     └── TaskTrackerApplication.java
-     └── resources/
-           ├── application.properties
-           └── static/
-
 🔧 How to Run the Backend
 1️⃣ Clone the Repository
 git clone https://github.com/saalilakshmanan04/task-tracker.git
